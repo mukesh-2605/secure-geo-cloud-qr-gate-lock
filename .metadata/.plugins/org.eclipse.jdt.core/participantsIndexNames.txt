@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+D:\ITJCC03\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2338745873.index
+\ITJBC04\src

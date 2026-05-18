@@ -1,0 +1,45 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ITJCC03:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ITJCC03_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ITJCC03" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/rt.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/cos.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/jmx.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/mail.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/jasper.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/Filters.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/jsp-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/org.json.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/itext-1.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/java-json.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/javax.mail.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/system-2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/servlet-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/javax-crypto.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/cos-multipart.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/poi-3.2-FINAL.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/poi-ooxml-3.8.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/httpunit-1.5.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/itextpdf-5.4.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/itextpdf-5.5.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/javax.json-1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/jcommon-1.0.16.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/java-mail-1.4.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/jfreechart-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/oreilly-2001-12-23.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/xmlbeans-xpath-2.3.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/poi-scratchpad-3.2-FINAL.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/mysql-connector-java-8.0.11.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/poi-contrib-3.2-FINAL-20081019.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ITJBC04/WebContent/WEB-INF/lib/weblogic-deployer-plugin-1.0-sources.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ITJCC03/web/Web" />
+    </root>
+  </artifact>
+</component>

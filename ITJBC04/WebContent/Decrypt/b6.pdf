@@ -1,0 +1,61 @@
+DOI: 10.18535/ijecs/v6i4.09 
+ 
+[26] E. Stefanov, M. van Dijk, A. Juels, and A. [37] B. Wang, B. Li, and H. Li, “Public auditing 
+Oprea, “Iris: A scalable cloud ?le system with for shared data with ef?cient user revocation in 
+ef?cient integrity checks,” in Proc. of ACSAC, the cloud,” in Proc. of INFOCOM, pp. 2904–
+pp. 229–238, 2012.  2912, 2013.  
+[27] D. Cash, A. Ku¨pc¸u¨, and D. Wichs, [38] B. Wang, B. Li, and H. Li, “Oruta: privacy-
+“Dynamic proofs of retrievability via oblivious preserving public auditing for shared data in the 
+RAM,” in Proc. of EUROCRYPT, pp. 279–295, cloud,” IEEE Transactions on Cloud Computing, 
+2013. vol. 2, no. 1, pp. 43–56, 2014.  
+[28] M. Azraoui, K. Elkhiyaoui, R.Molva, and M. [39] J. Yuan and S. Yu, “Ef?cient public integrity 
+¨Onen, “StealthGuard: Proofs of Retrievability checking for cloud data sharing with multi-user 
+with Hidden Watchdogs,” in Proc. of ESORICS, modi?cation,” in Proc. of INFOCOM, pp. 2121–
+pp. 239–256, 2014.  2129, 2014.  
+[29] Z. Ren, L. Wang, Q. Wang, and M. Xu, [40] R. Gennaro and D. Wichs, “Fully 
+“Dynamic Proofs of Retrievability for Coded Homomorphic Message Authenticators,” in Proc. 
+Cloud Storage Systems,” IEEE Transactions on of ASIACRYPT, pp. 301–320, 2013.  
+Services Computing, vol. PP, no. 99, pp. 1–1, 
+[41] D. Boneh and D. M. Freeman, 
+2015.  
+“Homomorphic Signatures for Polynomial 
+[30] R. Di Pietro and A. Sorniotti, “Boosting Functions,” in Proc. of EUROCRYPT, pp. 149–
+Ef?ciency and Security in Proof of Ownership for 168, 2011.  
+Deduplication,” in Proc. of ASIACCS, pp. 81–90, 
+[42] D. Catalano, D. Fiore, and B. Warinschi, 
+2012.  
+“Homomorphic Signatures with Ef?cient 
+[31] J. Xu, E.-C. Chang, and J. Zhou, “Weak Veri?cation for Polynomial Functions,” in Proc. 
+leakage-resilient clientside deduplication of of CRYPTO, pp. 371–389, 2014.  
+encrypted data in cloud storage,” in Proc. of 
+[43] A. Yun, J. H. Cheon, and Y. Kim, “On 
+ASIACCS, pp. 195–206, 2013.  
+Homomorphic Signatures for Network Coding,” 
+[32] S. Keelveedhi, M. Bellare, and T. Ristenpart, IEEE Transactions on Computers, vol. 59, no. 9, 
+“DupLESS: Serveraided encryption for pp. 1295–1296, 2010.  
+deduplicated storage,” in Proc. of USENIX 
+[44] C. Cheng and T. Jiang, “An Ef?cient 
+Security, pp. 179–194, 2013.  
+Homomorphic MAC with Small Key Size for 
+[33] J. Li, X. Chen, M. Li, J. Li, P. Lee, and W. Authentication in Network Coding,” IEEE 
+Lou, “Secure Deduplication with Ef?cient and Transactions on Computers, vol. 62, no. 10, pp. 
+Reliable Convergent Key Management,” IEEE 2096–2100, 2013.  
+Transactions on Parallel and Distributed Systems, 
+[45] J. Chen, K. He, R. Du, M. Zheng, Y. Xiang, 
+vol. 25, no. 6, pp. 1615–1625, 2014.  
+and Q. Yuan, “Dominating Set and Network 
+[34] J. Li, Y. K. Li, X. Chen, P. Lee, and W. Lou, Coding-Based Routing in Wireless Mesh 
+“A Hybrid Cloud Approach for Secure Authorized Networks,” IEEE Transactions on Parallel and 
+Deduplication,” IEEE Transactions on Parallel Distributed Systems, vol. 26, no. 2, pp. 423–433, 
+and Distributed Systems, vol. 26, no. 5, pp. 1206– 2015.  
+1216, 2015.  
+[46] D. Catalano, “Homomorphic Signatures and 
+[35] Q. Zheng and S. Xu, “Secure and ef?cient Message Authentication Codes,” in Proc. of SCN, 
+proof of storage with deduplication,” in Proc. of pp. 514–519, 2014.  
+CODASPY, pp. 1–12, 2012.  
+[47] M. Bellare, S. Keelveedhi, and T. Ristenpart, 
+[36] R. Du, L. Deng, J. Chen, K. He, and M. “Message-locked encryption and secure 
+Zheng, “Proofs of ownership and retrievability in deduplication,” in Proc. of EUROCRYPT, pp. 
+cloud storage,” in Proc. of TrustCom, pp. 328– 296–312, 2013.  
+335, 2014.  
+Prof.Ashok Kalal, IJECS Volume 6 Issue 4 April, 2017 Page No. 20851-20858 Page 20857 
